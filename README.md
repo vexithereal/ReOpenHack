@@ -3,9 +3,9 @@
    <a href="https://github.com/prevter/gdopenhack">
       <img src="logo.png" alt="Logo" width="80" height="80">
    </a>
-   <h3 align="center">OpenHack</h3>
+   <h3 align="center">ReOpenHack</h3>
    <p align="center">
-      A free and open source collection of hacks for Geometry Dash 2.2 with many features, including noclip, speedhack, startpos switcher, and more!
+     A Fork of OpenHack To Bring Back Functionality
    </p>
 </div>
 
