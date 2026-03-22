@@ -1,12 +1,3 @@
-<!-- Deprecation notice -->
-<div align="center">
-    <h1>Deprecation Notice!</h1>
-    <p>This repository is no longer maintained. Please consider using
-    <a href="https://github.com/EclipseMenu/EclipseMenu">Eclipse Menu</a> instead,
-    which is a more up-to-date and feature-rich mod for Geometry Dash.</p>
-    <p>Latest Geometry Dash version supported by OpenHack is 2.204.</p>
-</div>
-
 <!-- Old README.md content -->
 <div align="center">
     <a href="https://github.com/prevter/gdopenhack/releases/latest">
