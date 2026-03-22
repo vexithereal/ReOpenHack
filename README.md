@@ -1,19 +1,5 @@
 <!-- Old README.md content -->
 <div align="center">
-    <a href="https://github.com/prevter/gdopenhack/releases/latest">
-          <img src="https://img.shields.io/github/v/release/prevter/gdopenhack" alt="Release version">
-    </a>
-    <img src="https://img.shields.io/github/downloads/prevter/gdopenhack/total" alt="Total downloads">
-    <img src="https://img.shields.io/github/downloads/prevter/gdopenhack/latest/total" alt="Latest release downloads">
-    <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/prevter/gdopenhack" alt="License">
-    </a>
-    <a href="https://discord.gg/HaHn7RSJ4Q">
-      <img src="https://img.shields.io/discord/1195179573122445312?label=discord&logo=discord" alt="Discord">
-    </a>
-</div>
-<br>
-<div align="center">
    <a href="https://github.com/prevter/gdopenhack">
       <img src="logo.png" alt="Logo" width="80" height="80">
    </a>
